@@ -1,2 +1,2 @@
 # RefitWithDapr
-Sample one for refit with dapr.
+Sample project to work with refit in .net
