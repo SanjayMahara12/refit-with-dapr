@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "refitwithnet", "refitwithnet\refitwithnet.csproj", "{FCCA94F6-172D-497C-A6AF-9CC689C990A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCCA94F6-172D-497C-A6AF-9CC689C990A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCCA94F6-172D-497C-A6AF-9CC689C990A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCCA94F6-172D-497C-A6AF-9CC689C990A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCCA94F6-172D-497C-A6AF-9CC689C990A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E391BE90-E33B-45C6-BF58-509ACE4DD8C2}
+	EndGlobalSection
+EndGlobal
