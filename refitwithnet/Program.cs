@@ -6,6 +6,7 @@ using Refit;
 using refitwithdotnet.node;
 using ConsoleTables;
 using refitwithnet.dto;
+
 var api = RestService.For<IUsersClient>("https://jsonplaceholder.typicode.com/");
 var nodeapi = RestService.For<INode>("http://localhost:3000/");
 try

@@ -1,9 +1,6 @@
 # RefitWithDapr
 Sample project to work with refit in .net
-- cancellation token implementation
 - refit 
-- secret manager
-
 - using refit package for easy access to any API and working with the response without much creation of
   http handler or a wrapper. output flat structured POCO out to console.
 - using ConsoleTables package to present the data console terminal easily in customization table stuctures
